@@ -6,11 +6,11 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: https://yxiaodes.github.io/
+baseurl: //
 
 # Website info
 title: 学设计的弟弟
-description: The professional publishing platform
+description: 一名优秀（或即将优秀）的设计师弟弟！
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
