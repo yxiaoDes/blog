@@ -1,8 +1,8 @@
 ghost:
   username: ghost
   name: Ghost
-  url_full: http://yxiaoDes.github.io/jasper2/
-  url: yxiaoDes.github.io/jasper2
+  url_full: http://yxiaoDes.github.io/
+  url: yxiaoDes.github.io
   bio: The professional publishing platform
   picture: assets/images/ghost.png
   facebook: ghost
