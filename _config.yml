@@ -6,7 +6,7 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: //
+baseurl: /
 
 # Website info
 title: 学设计的弟弟
@@ -24,8 +24,8 @@ navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+twitter: yXiaoDes # replace by your username
+facebook: yXiaoDes # replace by your username
 
 # Disqus
 disqus: False
@@ -69,11 +69,11 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
-repo: yxiaoDes.github.io/
+username: yXiaoDes
+repo: 
 branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
+relative_source: ../
+destination: ../
 production_url:  https://yxiaoDes.github.io/
 source_url:  https://yxiaodes.github.io/
 
