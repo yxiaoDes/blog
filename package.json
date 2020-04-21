@@ -1,7 +1,7 @@
 {
     "name": "casper",
     "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
-    "demo": "https://yxiaodes.github.io",
+    "demo": "https://yxiaodes.github.io/",
     "version": "2.1.9",
     "engines": {
         "ghost": ">=1.2.0"
@@ -14,7 +14,7 @@
     "author": {
         "name": "yXiao",
         "email": "stonehzz@163.com",
-        "url": "https://yxiaodes.github.io"
+        "url": "https://yxiaodes.github.io/"
     },
     "gpm": {
         "type": "theme",
