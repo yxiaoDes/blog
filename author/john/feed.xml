@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/author/john/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2020-04-22T17:48:18+08:00</updated>
+  <updated>2020-04-22T21:27:34+08:00</updated>
   <id>/author/john/feed.xml</id>
 
   
@@ -12,24 +12,16 @@
   
 
   
-    <title type="html">Ghost | </title>
+    <title type="html">肖特UP | </title>
   
 
   
-    <subtitle>The professional publishing platform</subtitle>
+    <subtitle>一个优秀（或即将优秀）的设计师弟弟</subtitle>
   
 
   
 
   
-    
-      
-    
-      
-    
-      
-    
-      
     
       
     
@@ -80,7 +72,7 @@
 
 &lt;h3 id=&quot;bigimage&quot;&gt;Big Image&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://demo.ghost.io/content/images/2014/09/testimg1.jpeg&quot; alt=&quot;Test Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://yxiaodes.github.io/content/images/2014/09/testimg1.jpeg&quot; alt=&quot;Test Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/p&gt;
 
@@ -88,7 +80,7 @@
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://demo.ghost.io/content/images/2014/09/testimg2.jpg&quot; alt=&quot;Small Test Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://yxiaodes.github.io/content/images/2014/09/testimg2.jpg&quot; alt=&quot;Small Test Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Labore et dolore.&lt;/p&gt;
 
