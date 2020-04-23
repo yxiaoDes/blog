@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="/author/john/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/" rel="alternate" type="text/html" />
-  <updated>2020-04-23T16:54:48+08:00</updated>
-  <id>/author/john/feed.xml</id>
+  <link href="http://localhost:4000/author/john/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2020-04-23T17:01:27+08:00</updated>
+  <id>http://localhost:4000/author/john/feed.xml</id>
 
   
   
@@ -34,20 +34,20 @@
 
   
     <entry>
-      <title type="html">Setting up your own yXiaotheme</title>
-      <link href="/themes" rel="alternate" type="text/html" title="Setting up your own yXiaotheme" />
+      <title type="html">Setting up your own yxiaotheme</title>
+      <link href="http://localhost:4000/themes" rel="alternate" type="text/html" title="Setting up your own yxiaotheme" />
       <published>2017-07-27T12:00:00+08:00</published>
       <updated>2017-07-27T12:00:00+08:00</updated>
-      <id>/themes</id>
-      <content type="html" xml:base="/themes">&lt;p&gt;Creating a totally custom design for your publication&lt;/p&gt;
-&lt;p&gt;yXiaocomes with a beautiful default theme called Casper, which is designed to be a clean, readable publication layout and can be easily adapted for most purposes. However, yXiaocan also be completely themed to suit your needs. Rather than just giving you a few basic settings which act as a poor proxy for code, we just let you write code.&lt;/p&gt;
-&lt;p&gt;There are a huge range of both free and premium pre-built themes which you can get from the &lt;a href=&quot;http://marketplace.ghost.org&quot;&gt;yXiaoTheme Marketplace&lt;/a&gt;, or you can simply create your own from scratch.&lt;/p&gt;
+      <id>http://localhost:4000/themes</id>
+      <content type="html" xml:base="http://localhost:4000/themes">&lt;p&gt;Creating a totally custom design for your publication&lt;/p&gt;
+&lt;p&gt;yxiaocomes with a beautiful default theme called Casper, which is designed to be a clean, readable publication layout and can be easily adapted for most purposes. However, yxiaocan also be completely themed to suit your needs. Rather than just giving you a few basic settings which act as a poor proxy for code, we just let you write code.&lt;/p&gt;
+&lt;p&gt;There are a huge range of both free and premium pre-built themes which you can get from the &lt;a href=&quot;http://marketplace.ghost.org&quot;&gt;yxiaoTheme Marketplace&lt;/a&gt;, or you can simply create your own from scratch.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://marketplace.ghost.org&quot;&gt;&lt;img src=&quot;https://casper.ghost.org/v1.0.0/images/marketplace.jpg&quot; alt=&quot;marketplace&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Anyone can write a completely custom yXiaotheme, with just some solid knowledge of HTML and CSS&lt;/p&gt;
+&lt;p&gt;Anyone can write a completely custom yxiaotheme, with just some solid knowledge of HTML and CSS&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;yXiaothemes are written with a templating language called handlebars, which has a bunch of dynamic helpers to insert your data into template files. Like &lt;code&gt;&lt;/code&gt;, for example, outputs the name of the current author.&lt;/p&gt;
-&lt;p&gt;The best way to learn how to write your own yXiaotheme is to have a look at &lt;a href=&quot;https://github.com/TryGhost/Casper&quot;&gt;the source code for Casper&lt;/a&gt;, which is heavily commented and should give you a sense of how everything fits together.&lt;/p&gt;
+&lt;p&gt;yxiaothemes are written with a templating language called handlebars, which has a bunch of dynamic helpers to insert your data into template files. Like &lt;code&gt;&lt;/code&gt;, for example, outputs the name of the current author.&lt;/p&gt;
+&lt;p&gt;The best way to learn how to write your own yxiaotheme is to have a look at &lt;a href=&quot;https://github.com/TryGhost/Casper&quot;&gt;the source code for Casper&lt;/a&gt;, which is heavily commented and should give you a sense of how everything fits together.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;default.hbs&lt;/code&gt; is the main template file, all contexts will load inside this file unless specifically told to use a different template.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;post.hbs&lt;/code&gt; is the file used in the context of viewing a post.&lt;/li&gt;
@@ -55,7 +55,7 @@
 &lt;li&gt;and so on&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;We've got &lt;a href=&quot;http://themes.ghost.org/docs/about&quot;&gt;full and extensive theme documentation&lt;/a&gt; which outlines every template file, context and helper that you can use.&lt;/p&gt;
-&lt;p&gt;If you want to chat with other people making yXiaothemes to get any advice or help, there's also a &lt;strong&gt;#themes&lt;/strong&gt; channel in our &lt;a href=&quot;https://slack.ghost.org&quot;&gt;public Slack community&lt;/a&gt; which we always recommend joining!&lt;/p&gt;</content>
+&lt;p&gt;If you want to chat with other people making yxiaothemes to get any advice or help, there's also a &lt;strong&gt;#themes&lt;/strong&gt; channel in our &lt;a href=&quot;https://slack.ghost.org&quot;&gt;public Slack community&lt;/a&gt; which we always recommend joining!&lt;/p&gt;</content>
 
       
       
@@ -76,7 +76,7 @@
       
 
       
-        <summary type="html">Creating a totally custom design for your publication yXiaocomes with a beautiful default theme called Casper, which is designed to be a clean, readable publication layout and can be easily adapted for most purposes. However, yXiaocan also be completely themed to suit your needs. Rather than just giving you a few basic settings which act as a poor proxy for code, we just let you write code. There are a huge range of both free and premium pre-built themes which you can get from the yXiaoTheme Marketplace, or you can simply create your own from scratch. Anyone can write a completely custom yXiaotheme, with just some solid knowledge of HTML and CSS yXiaothemes are written with a templating language called handlebars, which has a bunch of dynamic helpers to insert your data into template files. Like , for example, outputs the name of the current author. The best way to learn how to write your own yXiaotheme is to have a look at the source code for Casper, which is heavily commented and should give you a sense of how everything fits together. default.hbs is the main template file, all contexts will load inside this file unless specifically told to use a different template. post.hbs is the file used in the context of viewing a post. index.hbs is the file used in the context of viewing the home page. and so on We've got full and extensive theme documentation which outlines every template file, context and helper that you can use. If you want to chat with other people making yXiaothemes to get any advice or help, there's also a #themes channel in our public Slack community which we always recommend joining!</summary>
+        <summary type="html">Creating a totally custom design for your publication yxiaocomes with a beautiful default theme called Casper, which is designed to be a clean, readable publication layout and can be easily adapted for most purposes. However, yxiaocan also be completely themed to suit your needs. Rather than just giving you a few basic settings which act as a poor proxy for code, we just let you write code. There are a huge range of both free and premium pre-built themes which you can get from the yxiaoTheme Marketplace, or you can simply create your own from scratch. Anyone can write a completely custom yxiaotheme, with just some solid knowledge of HTML and CSS yxiaothemes are written with a templating language called handlebars, which has a bunch of dynamic helpers to insert your data into template files. Like , for example, outputs the name of the current author. The best way to learn how to write your own yxiaotheme is to have a look at the source code for Casper, which is heavily commented and should give you a sense of how everything fits together. default.hbs is the main template file, all contexts will load inside this file unless specifically told to use a different template. post.hbs is the file used in the context of viewing a post. index.hbs is the file used in the context of viewing the home page. and so on We've got full and extensive theme documentation which outlines every template file, context and helper that you can use. If you want to chat with other people making yxiaothemes to get any advice or help, there's also a #themes channel in our public Slack community which we always recommend joining!</summary>
       
 
       
@@ -85,11 +85,11 @@
   
     <entry>
       <title type="html">Looking-Glass house</title>
-      <link href="/looking-glass-house" rel="alternate" type="text/html" title="Looking-Glass house" />
+      <link href="http://localhost:4000/looking-glass-house" rel="alternate" type="text/html" title="Looking-Glass house" />
       <published>1871-03-18T18:18:00+08:00</published>
       <updated>1871-03-18T18:18:00+08:00</updated>
-      <id>/looking-glass-house</id>
-      <content type="html" xml:base="/looking-glass-house">&lt;p&gt;One thing was certain, that the white kitten had had nothing to do with it:— it was the black kitten’s fault entirely. For the white kitten had been having its face washed by the old cat for the last quarter of an hour (and bearing it pretty well, considering); so you see that it couldn’t have had any hand in the mischief.
+      <id>http://localhost:4000/looking-glass-house</id>
+      <content type="html" xml:base="http://localhost:4000/looking-glass-house">&lt;p&gt;One thing was certain, that the white kitten had had nothing to do with it:— it was the black kitten’s fault entirely. For the white kitten had been having its face washed by the old cat for the last quarter of an hour (and bearing it pretty well, considering); so you see that it couldn’t have had any hand in the mischief.
 The way Dinah washed her children’s faces was this: first she held the poor thing down by its ear with one paw, and then with the other paw she rubbed its face all over, the wrong way, beginning at the nose: and just now, as I said, she was hard at work on the white kitten, which was lying quite still and trying to purr — no doubt feeling that it was all meant for its good.
 But the black kitten had been finished with earlier in the afternoon, and so, while Alice was sitting curled up in a corner of the great arm-chair, half talking to herself and half asleep, the kitten had been having a grand game of romps with the ball of worsted Alice had been trying to wind up, and had been rolling it up and down till it had all come undone again; and there it was, spread over the hearth-rug, all knots and tangles, with the kitten running after its own tail in the middle.&lt;/p&gt;
 
@@ -146,11 +146,11 @@ The poor King looked puzzled and unhappy, and struggled with the pencil for some
   
     <entry>
       <title type="html">Down The Rabbit Hole</title>
-      <link href="/down-the-rabbit-hole" rel="alternate" type="text/html" title="Down The Rabbit Hole" />
+      <link href="http://localhost:4000/down-the-rabbit-hole" rel="alternate" type="text/html" title="Down The Rabbit Hole" />
       <published>1865-11-26T18:18:00+08:00</published>
       <updated>1865-11-26T18:18:00+08:00</updated>
-      <id>/down-the-rabbit-hole</id>
-      <content type="html" xml:base="/down-the-rabbit-hole">&lt;p&gt;Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, ‘and what is the use of a book,’ thought Alice ‘without pictures or conversation?’&lt;/p&gt;
+      <id>http://localhost:4000/down-the-rabbit-hole</id>
+      <content type="html" xml:base="http://localhost:4000/down-the-rabbit-hole">&lt;p&gt;Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, ‘and what is the use of a book,’ thought Alice ‘without pictures or conversation?’&lt;/p&gt;
 
 &lt;p&gt;So she was considering in her own mind (as well as she could, for the hot day made her feel very sleepy and stupid), whether the pleasure of making a daisy-chain would be worth the trouble of getting up and picking the daisies, when suddenly a White Rabbit with pink eyes ran close by her.&lt;/p&gt;
 
@@ -228,11 +228,11 @@ The poor King looked puzzled and unhappy, and struggled with the pencil for some
   
     <entry>
       <title type="html">Gettysburg Address</title>
-      <link href="/gettysburg-address" rel="alternate" type="text/html" title="Gettysburg Address" />
+      <link href="http://localhost:4000/gettysburg-address" rel="alternate" type="text/html" title="Gettysburg Address" />
       <published>1863-11-19T18:18:00+08:00</published>
       <updated>1863-11-19T18:18:00+08:00</updated>
-      <id>/gettysburg-address</id>
-      <content type="html" xml:base="/gettysburg-address">&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
+      <id>http://localhost:4000/gettysburg-address</id>
+      <content type="html" xml:base="http://localhost:4000/gettysburg-address">&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
 
 &lt;p&gt;Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.&lt;/p&gt;
 

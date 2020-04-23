@@ -3,7 +3,7 @@
 * FitVids 1.3
 *
 *
-* Copyright 2017, Chris Coyier + Dave Rupert + yXiaoFoundation
+* Copyright 2017, Chris Coyier + Dave Rupert + yxiaoFoundation
 * This is an unofficial release, ported by John O'Nolan
 * Credit to Thierry Koblentz - http://www.alistapart.com/articles/creating-intrinsic-ratios-for-video/
 * Released under the MIT license
